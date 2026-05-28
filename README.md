@@ -14,7 +14,7 @@ Loses if the number of incorrect guesses reaches the maximum limit
 
 This project is completely console-based and designed for beginners to understand core Python concepts in a practical way.
 
-🚀 Features
+🚀 Features 
 
 ✅ Random word selection
 ✅ Letter-by-letter guessing system
