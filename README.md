@@ -92,8 +92,8 @@ Repeated guesses are not allowed.
 The game ends when:
 The player guesses the word correctly
 OR the player runs out of attempts
-🔮 Future Improvements
 
+🔮 Future Improvements
 Some enhancements that can be added in future versions:
 
 Difficulty Levels
