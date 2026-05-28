@@ -49,7 +49,7 @@ This project is completely console-based and designed for beginners to understan
 ```bash
 Hangman-Game/
 │
-├── hangman.py      # Main game source code
+├── index.py        # Main game source code
 ├── README.md       # Project documentation
 ```
 
@@ -99,7 +99,7 @@ cd hangman-game
 ## Step 4: Run the Program
 
 ```bash
-python hangman.py
+python index.py
 ```
 
 ---
